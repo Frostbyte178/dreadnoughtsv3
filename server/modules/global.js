@@ -175,7 +175,7 @@ const requires = [
     "./debug/logs.js", // The logging pattern for the game. Useful for pinpointing lag.
     "./debug/speedLoop.js", // The speed check loop lmao.
     "./gamemodes/bossRush.js", // Boss Rush
-    "./gamemodes/maze.js", // Maze
+    "./gamemodes/labyrinth.js", // Labyrinth
     "./gamemodes/mothership.js", // The mothership mode
     "./gamemodes/manhunt.js", // The Manhunt mode
     "./gamemodes/trainwars.js", // The Train Wars mode
