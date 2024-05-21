@@ -4,5 +4,5 @@ module.exports = {
     CRUCIFORM_SWELL: 0.1,
     EYE_RADIUS: 0.35,
     ROOM_SETUP: ['overlay_tdm'],
-    MAZE: 31,
+    MAZE: 43,
 };

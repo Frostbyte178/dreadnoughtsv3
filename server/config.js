@@ -32,8 +32,8 @@ module.exports = {
     ROOM_SETUP: ['map_labyrinth'],
 
     // The dimensions of a single tile on the map.
-    TILE_WIDTH: 400,
-    TILE_HEIGHT: 400,
+    TILE_WIDTH: 600,
+    TILE_HEIGHT: 600,
 
 
 

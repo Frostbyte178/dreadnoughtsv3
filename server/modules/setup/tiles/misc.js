@@ -48,7 +48,8 @@ nestTick = tile => {
     }
 },
 
-nestColor = {BASE: "purple", BRIGHTNESS_SHIFT: 10, SATURATION_SHIFT: 0.8},
+// nestColor = {BASE: "purple", BRIGHTNESS_SHIFT: 10, SATURATION_SHIFT: 0.8},
+nestColor = "white",
 nest = new Tile({
     color: nestColor,
     data: {
